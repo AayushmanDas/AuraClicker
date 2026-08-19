@@ -20,7 +20,7 @@ Designed natively in **KiCad** with end-to-end Design for Manufacturing (DFM) ve
 * **Power & Battery Management:**
   * Dedicated **TP4056** Li-Po linear charging IC over USB-C.
   * **AMS1117-3.3** high-current LDO for clean 3.3V power distribution.
-  * 2-Pin **Molex PicoBlade (1.25mm)** battery connector.
+  * 2-Pin **Molex PicoBlade (1.25mm)** battery connector. Recommended to be used with 3.7-4.2V 500mAh LiPo battery.
   * Hardware SPDT power slide switch (`SW1`).
 * **Inputs & Peripherals:**
   * 4x Low-profile tactile click buttons (`SW2` – `SW5`) arranged for ergonomic thumb/finger reach.
